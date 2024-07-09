@@ -1,0 +1,47 @@
+/* Articles CSS */
+
+.article-stuff {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.row {
+  display: flex;
+  justify-content: flex-start;
+  padding-bottom: 20px;
+  width: 12.6%;
+}
+
+.link-pictures {
+  display: flex;
+  width: 212px;
+  height: auto;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+}
+
+.website-links {
+  color: black;
+  font-size: 16px;
+  font-weight: normal;
+  padding: 0px;
+  width: 12.6%;
+}
+
+a.website-links:hover {
+  text-decoration: underline;
+}
+
+.reviewer {
+  font-size: 12px;
+  color: #ffb703;
+  font-weight: normal;
+  margin: 0;
+  padding-top: 20px;
+}
+
+.image-size {
+  width: 212px;
+  padding-right: 20px;
+}
